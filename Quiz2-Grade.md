@@ -1,6 +1,6 @@
 ## Quiz 2 Grade: 25%
 
-1. 0 (out of 25) Wow.
+1. 0 (out of 25)
 2. 25 (out of 25) 
 3. 0 (out of 50) 
 
